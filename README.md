@@ -32,7 +32,6 @@ Then run the script with
 npm start
 ```
 
-
 ## Available Scripts
 
 In the project directory, you can run:
